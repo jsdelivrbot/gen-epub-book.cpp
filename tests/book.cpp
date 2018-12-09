@@ -123,7 +123,7 @@ static std::vector<T> book_lines() {
 	    "String-Content: <strong>SEIZE THE MEANS OF PRODUCTION!</strong>",                                                               //
 	    "Image-Content: simple/chapter_image.png",                                                                                       //
 	    "Image-Content: not_dead_yet.png",                                                                                               //
-	    "Network-Image-Content: https://cdn.rawgit.com/nabijaczleweli/nabijaczleweli.github.io/dev/src/writing_prompts/slim_shady.png",  //
+	    "Network-Image-Content: https://cdn.jsdelivr.net/gh/nabijaczleweli/nabijaczleweli.github.io@dev/src/writing_prompts/slim_shady.png",  //
 	    "",                                                                                                                              //
 	    "Network-Cover: http://i.imgur.com/ViQ2WED.jpg",                                                                                 //
 	    "",                                                                                                                              //
